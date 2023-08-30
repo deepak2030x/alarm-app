@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/alarm-app/static/css/main.e6c13ad2.css",
+    "main.js": "/alarm-app/static/js/main.4d55f667.js",
+    "static/js/787.0b2c4230.chunk.js": "/alarm-app/static/js/787.0b2c4230.chunk.js",
+    "static/media/PhoneAlarm.mp3": "/alarm-app/static/media/PhoneAlarm.d354d681d177f0c29a95.mp3",
+    "static/media/caralarm.mp3": "/alarm-app/static/media/caralarm.f72f7777e95eefd26fb2.mp3",
+    "static/media/whistle.mp3": "/alarm-app/static/media/whistle.fbd2b5e22d2f2fde9d33.mp3",
+    "static/media/commonalarm.mp3": "/alarm-app/static/media/commonalarm.a12b6878ef4b13378b73.mp3",
+    "index.html": "/alarm-app/index.html",
+    "main.e6c13ad2.css.map": "/alarm-app/static/css/main.e6c13ad2.css.map",
+    "main.4d55f667.js.map": "/alarm-app/static/js/main.4d55f667.js.map",
+    "787.0b2c4230.chunk.js.map": "/alarm-app/static/js/787.0b2c4230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4d55f667.js"
+  ]
+}
