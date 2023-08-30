@@ -3,7 +3,7 @@ function Header() {
 
   return (
     <>
-      <h1 style={centerStyle}>I'm Header</h1>
+      <h1 style={centerStyle}>Welcome to Alarm Application.</h1>
     </>
   );
 }
